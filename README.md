@@ -1,5 +1,5 @@
 # Hi there, I'm Alex! 👋
-**`Industrious Craftsman (Developer/Student)`**
+**`Industrious Craftsman (Developer)`**
 
 I'm an self-taught developer building my version of the digital world one step at a time. All coding projects are one piece of the puzzle, from planning and designing all the way to solving real-life problems with code. All Projects are built to enhance my abilities and knowledge, and my desire to learn more about the many different ways that you can create, built, and update apps and sites with the technology most appropriate for the task.
 
